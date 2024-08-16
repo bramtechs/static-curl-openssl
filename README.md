@@ -1,8 +1,7 @@
 # static-curl-openssl
 CMake interface to quickly **statically link** curl and openssl, primary on Android devices.
 
-Do not use blindly in production. Check licenses of the resources below.
-
+Do not use blindly in production. Check licenses of the resources below.<br>
 Comes with absolutely no warranty.
 
 ## Resources
