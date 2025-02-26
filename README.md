@@ -5,7 +5,9 @@ Android development. It is recommended to use a more proper dependency managemen
 like [Google Prefabs](https://github.com/android/ndk-samples/tree/main/prefab/curl-ssl)
 from the [ndk-examples](https://github.com/android/ndk-samples) repo that uses dynamic linking instead.
 Curl and OpenSSL are vulnerable dependencies
-that should be kept up to date!**
+that should be kept up to date! The repo has been archived to prevent bad practice.**
+
+Original README
 
 CMake interface to quickly **statically link** curl and openssl on Android.
 
